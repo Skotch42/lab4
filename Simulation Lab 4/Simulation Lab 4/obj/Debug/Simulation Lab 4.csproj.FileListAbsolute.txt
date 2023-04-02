@@ -1,0 +1,22 @@
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\2 семестр\Имитационное моделирование\Лабораторная работа 4\Simulation Lab 4\Simulation Lab 4\bin\Debug\Simulation Lab 4.exe.config
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\2 семестр\Имитационное моделирование\Лабораторная работа 4\Simulation Lab 4\Simulation Lab 4\bin\Debug\Simulation Lab 4.exe
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\2 семестр\Имитационное моделирование\Лабораторная работа 4\Simulation Lab 4\Simulation Lab 4\bin\Debug\Simulation Lab 4.pdb
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\2 семестр\Имитационное моделирование\Лабораторная работа 4\Simulation Lab 4\Simulation Lab 4\obj\Debug\Simulation Lab 4.csproj.AssemblyReference.cache
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\2 семестр\Имитационное моделирование\Лабораторная работа 4\Simulation Lab 4\Simulation Lab 4\obj\Debug\Simulation Lab 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\2 семестр\Имитационное моделирование\Лабораторная работа 4\Simulation Lab 4\Simulation Lab 4\obj\Debug\Simulation_Lab_4.Form1.resources
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\2 семестр\Имитационное моделирование\Лабораторная работа 4\Simulation Lab 4\Simulation Lab 4\obj\Debug\Simulation_Lab_4.Properties.Resources.resources
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\2 семестр\Имитационное моделирование\Лабораторная работа 4\Simulation Lab 4\Simulation Lab 4\obj\Debug\Simulation Lab 4.csproj.GenerateResource.cache
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\2 семестр\Имитационное моделирование\Лабораторная работа 4\Simulation Lab 4\Simulation Lab 4\obj\Debug\Simulation Lab 4.csproj.CoreCompileInputs.cache
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\2 семестр\Имитационное моделирование\Лабораторная работа 4\Simulation Lab 4\Simulation Lab 4\obj\Debug\Simulation Lab 4.exe
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\2 семестр\Имитационное моделирование\Лабораторная работа 4\Simulation Lab 4\Simulation Lab 4\obj\Debug\Simulation Lab 4.pdb
+C:\Users\vlado\OneDrive\Рабочий стол\имитационка\Simulation Lab 4\Simulation Lab 4\bin\Debug\Simulation Lab 4.exe.config
+C:\Users\vlado\OneDrive\Рабочий стол\имитационка\Simulation Lab 4\Simulation Lab 4\bin\Debug\Simulation Lab 4.exe
+C:\Users\vlado\OneDrive\Рабочий стол\имитационка\Simulation Lab 4\Simulation Lab 4\bin\Debug\Simulation Lab 4.pdb
+C:\Users\vlado\OneDrive\Рабочий стол\имитационка\Simulation Lab 4\Simulation Lab 4\obj\Debug\Simulation Lab 4.csproj.AssemblyReference.cache
+C:\Users\vlado\OneDrive\Рабочий стол\имитационка\Simulation Lab 4\Simulation Lab 4\obj\Debug\Simulation Lab 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\vlado\OneDrive\Рабочий стол\имитационка\Simulation Lab 4\Simulation Lab 4\obj\Debug\Simulation_Lab_4.Form1.resources
+C:\Users\vlado\OneDrive\Рабочий стол\имитационка\Simulation Lab 4\Simulation Lab 4\obj\Debug\Simulation_Lab_4.Properties.Resources.resources
+C:\Users\vlado\OneDrive\Рабочий стол\имитационка\Simulation Lab 4\Simulation Lab 4\obj\Debug\Simulation Lab 4.csproj.GenerateResource.cache
+C:\Users\vlado\OneDrive\Рабочий стол\имитационка\Simulation Lab 4\Simulation Lab 4\obj\Debug\Simulation Lab 4.csproj.CoreCompileInputs.cache
+C:\Users\vlado\OneDrive\Рабочий стол\имитационка\Simulation Lab 4\Simulation Lab 4\obj\Debug\Simulation Lab 4.exe
+C:\Users\vlado\OneDrive\Рабочий стол\имитационка\Simulation Lab 4\Simulation Lab 4\obj\Debug\Simulation Lab 4.pdb
